@@ -3,5 +3,6 @@
 
 def fizzbuzz(num)
   
-  num 
+  num % 3 == 0 
+  
 end
