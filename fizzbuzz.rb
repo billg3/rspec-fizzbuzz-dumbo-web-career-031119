@@ -3,4 +3,5 @@
 
 def fizzbuzz(num)
   num 
+  num 
 end
